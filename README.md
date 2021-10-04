@@ -47,6 +47,6 @@ DevOps transformation, automation, data, and metrics are my preferred areas. And
 <!-- BLOG-POST-LIST:START -->
 - [Docker Best Practices Workshop - Presentation](https://tech.aabouzaid.com/2021/09/docker-best-practices-workshop-presentation.html)
 - [How a small task force revamped and modernized a gigantic CI pipeline - DevOps Transformation](https://tech.aabouzaid.com/2021/09/how-a-small-task-force-revamped-and-modernized-a-gigantic-ci-pipeline.html)
+- [My first upstream Helm chart, Camunda Platform chart - Helm](https://tech.aabouzaid.com/2021/10/my-first-upstream-helm-chart-camunda-platform-chart.html)
 - [Participating in DevOps circle at JobStack 2021](https://tech.aabouzaid.com/2021/08/participating-in-devops-circle-at-jobstack-2021.html)
-- [Kubernetes Requests and Limits - Presentation](https://tech.aabouzaid.com/2021/07/kubernetes-requests-and-limits-presentation.html)
 <!-- BLOG-POST-LIST:END -->
