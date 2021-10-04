@@ -17,7 +17,7 @@ DevOps transformation, automation, data, and metrics are my preferred areas. And
 - 📄 Know more about my experiences [https://www.linkedin.com/in/aabouzaid](https://www.linkedin.com/in/aabouzaid/)
 
 ### 🛠️ Main Toolkit:
-
+.
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/>
@@ -30,6 +30,7 @@ DevOps transformation, automation, data, and metrics are my preferred areas. And
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
+.
 
 ### 📑️ Blog posts
 <!-- BLOG-POST-LIST:START -->
