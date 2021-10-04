@@ -48,6 +48,4 @@ DevOps transformation, automation, data, and metrics are my preferred areas. And
 - [How a small task force revamped and modernized a gigantic CI pipeline - DevOps Transformation](https://tech.aabouzaid.com/2021/09/how-a-small-task-force-revamped-and-modernized-a-gigantic-ci-pipeline.html)
 - [My first public Helm chart, Camunda Platform chart](https://tech.aabouzaid.com/2021/09/my-first-public-helm-chart-camunda-platform-chart.html)
 - [Participating in DevOps circle at JobStack 2021](https://tech.aabouzaid.com/2021/08/participating-in-devops-circle-at-jobstack-2021.html)
-- [Kubernetes Requests and Limits - Presentation](https://tech.aabouzaid.com/2021/07/kubernetes-requests-and-limits-presentation.html)
-- [Delete a manifest from Kustomize base - Kubernetes](https://tech.aabouzaid.com/2021/05/delete-a-manifest-from-kustomize-base.html)
 <!-- BLOG-POST-LIST:END -->
