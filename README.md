@@ -6,7 +6,7 @@ I believe in self CI/CD (Continuous Improvements/Development), also that "**The 
 
 DevOps transformation, automation, data, and metrics are my preferred areas. And I like to help both businesses and people to grow. 
 
-### 🧐 More About Me:
+### 🧐 More about me
 
 - 💬 Ask me about **Kubernetes, Containers, CI/CD, DevOps, Automation**
 
@@ -16,7 +16,7 @@ DevOps transformation, automation, data, and metrics are my preferred areas. And
 
 - 📄 Know more about my experiences [https://www.linkedin.com/in/aabouzaid](https://www.linkedin.com/in/aabouzaid/)
 
-### 🛠️ Main Toolkit:
+### 🛠️ Main toolkit
 .
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/>
@@ -32,7 +32,7 @@ DevOps transformation, automation, data, and metrics are my preferred areas. And
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
 .
 
-### 📑️ Blog posts
+### 📑️ Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Docker Best Practices Workshop - Presentation](https://tech.aabouzaid.com/2021/09/docker-best-practices-workshop-presentation.html)
 - [How a small task force revamped and modernized a gigantic CI pipeline - DevOps Transformation](https://tech.aabouzaid.com/2021/09/how-a-small-task-force-revamped-and-modernized-a-gigantic-ci-pipeline.html)
