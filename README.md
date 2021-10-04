@@ -11,11 +11,11 @@ DevOps transformation, automation, data, and metrics are my preferred areas. And
 
 - 👨‍💻 Interested in **Kubernetes, Containers, CI/CD, DevOps, Automation**
 
-- 📝 Regularly write articles on [https://tech.aabouzaid.com](https://tech.aabouzaid.com/)
+- 📝 Regularly write articles on [tech.aabouzaid.com](https://tech.aabouzaid.com/)
 
-- 💡 My talks and sessions [https://tech.aabouzaid.com/talks](https://tech.aabouzaid.com/talks)
+- 💡 My talks and sessions on [tech.aabouzaid.com/talks](https://tech.aabouzaid.com/talks)
 
-- 📜️ More about my experiences [https://www.linkedin.com/in/aabouzaid](https://www.linkedin.com/in/aabouzaid/)
+- 📜️ More about my experiences on [linkedin.com/in/aabouzaid](https://www.linkedin.com/in/aabouzaid/)
 
 
 ### 🛠️ Main toolkit
@@ -30,6 +30,7 @@ DevOps transformation, automation, data, and metrics are my preferred areas. And
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+<img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" alt="github-actions" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
 .
