@@ -9,11 +9,11 @@ DevOps transformation, automation, data, and metrics are my preferred areas. And
 
 ### 🧐 More about me
 
-- ⚙️ Interested in **Kubernetes, Containers, CI/CD, DevOps, Automation**
+- 👨‍💻 Interested in **Kubernetes, Containers, CI/CD, DevOps, Automation**
 
 - 📝 Regularly write articles on [https://tech.aabouzaid.com](https://tech.aabouzaid.com/)
 
-- 👨‍💻 My talks and sessions [https://tech.aabouzaid.com/talks](https://tech.aabouzaid.com/talks)
+- 💡 My talks and sessions [https://tech.aabouzaid.com/talks](https://tech.aabouzaid.com/talks)
 
 - 📜️ More about my experiences [https://www.linkedin.com/in/aabouzaid](https://www.linkedin.com/in/aabouzaid/)
 
