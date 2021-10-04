@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, nice to meet you! 🐧️</h1>
+## Hi there, nice to meet you! 🐧️
 
 Hello, my name is [Ahmed AbouZaid](https://tech.aabouzaid.com/), I'm a passionate DevOps engineer, Cloud/Kubernetes specialist, Free/Open source geek, and an author.
 
@@ -31,6 +31,12 @@ DevOps transformation, automation, data, and metrics are my preferred areas. And
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
 .
+
+### 📕️ Featured blog posts
+- **Kubernetes** - [3 ways to customize off-the-shelf Helm charts with Kustomize](https://tech.aabouzaid.com/2020/09/3-ways-to-customize-off-the-shelf-helm-charts-with-kustomize-kubernetes.html)
+- **Terraform** - [Validate, format, lint, and test Terraform files](https://tech.aabouzaid.com/2020/04/validate-format-lint-and-test-terraform-iac-ci.html)
+- **SRE** - [The Road to Cut Production Incidents by 67% and Reduce Downtime to Zero](https://tech.aabouzaid.com/2020/01/the-road-to-cut-production-incidents-by-67-percent-and-reduce-downtime-to-zero.html)
+- **DevOps** - [J-Curve and change management](https://tech.aabouzaid.com/2019/05/devops-and-change-management-agile.html)
 
 ### 📑️ Latest blog posts
 <!-- BLOG-POST-LIST:START -->
