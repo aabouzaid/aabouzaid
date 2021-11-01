@@ -45,8 +45,8 @@ DevOps transformation, automation, data, and metrics are my preferred areas. And
 
 ### 📑️ Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Now I'm a Certified Kubernetes Security Specialist + exam tips](https://tech.aabouzaid.com/2021/10/now-i-am-a-certified-kubernetes-security-specialist-plus-exam-tips.html)
 - [Create your first Ansible-based Kubernetes Operator - Tutorial](https://tech.aabouzaid.com/2021/10/create-your-first-ansible-based-kubernetes-operator-tutorial.html)
 - [Docker Best Practices Workshop - Presentation](https://tech.aabouzaid.com/2021/09/docker-best-practices-workshop-presentation.html)
 - [How a small task force revamped and modernized a gigantic CI pipeline - DevOps Transformation](https://tech.aabouzaid.com/2021/09/how-a-small-task-force-revamped-and-modernized-a-gigantic-ci-pipeline.html)
-- [My first upstream Helm chart, Camunda Platform chart - Helm](https://tech.aabouzaid.com/2021/10/my-first-upstream-helm-chart-camunda-platform-chart.html)
 <!-- BLOG-POST-LIST:END -->
