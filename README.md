@@ -45,8 +45,8 @@ DevOps transformation, automation, data, and metrics are my preferred areas. And
 
 ### 📑️ Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Refactoring Bank-Vaults operator for full Vault management support](https://tech.aabouzaid.com/2022/03/refactoring-bank-vaults-operator-for-full-vault-management-support.html)
+- [Extending Jenkins to run resilient pipelines with long-running jobs - CI/CD](https://tech.aabouzaid.com/2022/02/extending-jenkins-to-run-resilient-pipelines-with-long-running-jobs.html)
+- [asdf-vm, a universal version manager - Tools](https://tech.aabouzaid.com/2022/01/asdf-vm-a-universal-version-manager-tools.html)
 - [Now I&#39;m a Certified Kubernetes Security Specialist + exam tips](https://tech.aabouzaid.com/2021/11/now-i-am-a-certified-kubernetes-security-specialist-plus-exam-tips.html)
-- [Create your first Ansible-based Kubernetes Operator - Tutorial](https://tech.aabouzaid.com/2021/10/create-your-first-ansible-based-kubernetes-operator-tutorial.html)
-- [Docker Best Practices Workshop - Presentation](https://tech.aabouzaid.com/2021/09/docker-best-practices-workshop-presentation.html)
-- [How a small task force revamped and modernized a gigantic CI pipeline - DevOps Transformation](https://tech.aabouzaid.com/2021/09/how-a-small-task-force-revamped-and-modernized-a-gigantic-ci-pipeline.html)
 <!-- BLOG-POST-LIST:END -->
