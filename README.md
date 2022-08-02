@@ -45,8 +45,8 @@ DevOps transformation, automation, data, and metrics are my preferred areas. And
 
 ### 📑️ Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Notes about KRM Functions - Kustomize](https://tech.aabouzaid.com/2022/07/notes-about-krm-functions-kustomize.html)
+- [Kubernetes Security Best Practices with tips for the CKS exam - Presentation](https://tech.aabouzaid.com/2022/07/kubernetes-security-best-practices-with-tips-for-the-cks-exam.html)
+- [Moderating DevOps circle at JobStack 2022](https://tech.aabouzaid.com/2022/06/moderating-devops-circle-at-jobstack-2022.html)
 - [Apply Kustomize builtin transformers on a single resource - Kubernetes](https://tech.aabouzaid.com/2022/04/apply-kustomize-builtin-transformers-on-a-single-resource.html)
-- [Refactoring Bank-Vaults operator for full Vault management support](https://tech.aabouzaid.com/2022/03/refactoring-bank-vaults-operator-for-full-vault-management-support.html)
-- [Extending Jenkins to run resilient pipelines with long-running jobs - CI/CD](https://tech.aabouzaid.com/2022/02/extending-jenkins-to-run-resilient-pipelines-with-long-running-jobs.html)
-- [Asdf-vm, a universal version manager - Tools](https://tech.aabouzaid.com/2022/01/asdf-vm-a-universal-version-manager-tools.html)
 <!-- BLOG-POST-LIST:END -->
