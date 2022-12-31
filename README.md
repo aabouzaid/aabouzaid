@@ -45,8 +45,8 @@ DevOps transformation, automation, data, and metrics are my preferred areas. And
 
 ### 📑️ Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2022 Highlights](https://tech.aabouzaid.com/2022/12/2022-highlights.html)
 - [Pass extra data to the Containerized KRM function - Kustomize](https://tech.aabouzaid.com/2022/12/pass-extra-data-to-the-containerized-krm-function.html)
 - [Set OpenAPI patch strategy for Kubernetes Custom Resources - Kustomize](https://tech.aabouzaid.com/2022/11/set-openapi-patch-strategy-for-kubernetes-custom-resources-kustomize.html)
 - [Handling nullable nested values - Helm](https://tech.aabouzaid.com/2022/11/handling-nullable-nested-values-helm.html)
-- [How to create Makefile targets with dynamic parameters and autocompletion - Make](https://tech.aabouzaid.com/2022/09/create-makefile-targets-with-dynamic-parameters-and-autocompletion.html)
 <!-- BLOG-POST-LIST:END -->
