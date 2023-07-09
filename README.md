@@ -45,8 +45,8 @@ DevOps transformation, automation, data, and metrics are my preferred areas. And
 
 ### 📑️ Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Master&#39;s Dissertation: Modern Data Platform with DataOps, Kubernetes, and Cloud-Native Ecosystem](https://tech.aabouzaid.com/2023/07/my-master-dissertation-modern-data-platform-with-dataops-kubernetes-and-cloud-native-ecosystem.html)
+- [Your DevOps learning roadmap is broken! - Career](https://tech.aabouzaid.com/2023/06/your-devops-learning-roadmap-is-broken.html)
 - [KubeconformValidator, my first Kustomize validator plugin - Golang](https://tech.aabouzaid.com/2023/05/kubeconformvalidator-my-first-kustomize-validator-plugin-golang.html)
 - [Awesome Kustomize list - Kubernetes](https://tech.aabouzaid.com/2023/01/awesome-kustomize-list-kubernetes.html)
-- [2022 Highlights](https://tech.aabouzaid.com/2022/12/2022-highlights.html)
-- [Pass extra data to the Containerized KRM function - Kustomize](https://tech.aabouzaid.com/2022/12/pass-extra-data-to-the-containerized-krm-function.html)
 <!-- BLOG-POST-LIST:END -->
