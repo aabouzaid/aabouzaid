@@ -37,10 +37,11 @@ DevOps transformation, automation, data, and metrics are my preferred areas. And
 
 
 ### 📕️ Featured blog posts
+- **Career** - [Your DevOps learning roadmap is broken!](https://tech.aabouzaid.com/2023/06/your-devops-learning-roadmap-is-broken.html)
+- **DevOps** - [J-Curve and change management](https://tech.aabouzaid.com/2019/05/devops-and-change-management-agile.html)
 - **Kubernetes** - [3 ways to customize off-the-shelf Helm charts with Kustomize](https://tech.aabouzaid.com/2020/09/3-ways-to-customize-off-the-shelf-helm-charts-with-kustomize-kubernetes.html)
 - **Terraform** - [Validate, format, lint, and test Terraform files](https://tech.aabouzaid.com/2020/04/validate-format-lint-and-test-terraform-iac-ci.html)
 - **SRE** - [The Road to Cut Production Incidents by 67% and Reduce Downtime to Zero](https://tech.aabouzaid.com/2020/01/the-road-to-cut-production-incidents-by-67-percent-and-reduce-downtime-to-zero.html)
-- **DevOps** - [J-Curve and change management](https://tech.aabouzaid.com/2019/05/devops-and-change-management-agile.html)
 
 
 ### 📑️ Latest blog posts
