@@ -17,7 +17,7 @@ DevOps transformation, automation, data, and metrics are my preferred areas. And
 
 - 📜️ More about my professional experiences on [linkedin.com/in/aabouzaid](https://www.linkedin.com/in/aabouzaid/)
 
-- 📁 Created a curated [Awesome Kustomize](https://github.com/aabouzaid/awesome-kustomize/) and [Awesome Crossplane](https://github.com/aabouzaid/awesome-crossplane/) lists.
+- 📁 Created a curated [Awesome Kustomize](https://github.com/DevOpsHiveCloud/awesome-kustomize) and [Awesome Crossplane](https://github.com/DevOpsHiveCloud/awesome-crossplane) lists.
 
 
 ### 🛠️ Main toolkit
