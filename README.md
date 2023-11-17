@@ -48,8 +48,8 @@ DevOps transformation, automation, data, and metrics are my preferred areas. And
 
 ### 📑️ Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DevOps is not only a culture - Discussion Panel](https://tech.aabouzaid.com/2023/11/devops-is-not-only-a-culture.html)
 - [Platform Engineering: Manage your infrastructure using Kubernetes and Crossplane - Presentation](https://tech.aabouzaid.com/2023/11/platform-engineering-manage-your-infrastructure-using-kubernetes-and-crossplane.html)
 - [🔀Merger🔀, a schemaless strategic merge plugin - Kustomize](https://tech.aabouzaid.com/2023/09/merger-schemaless-strategic-merge-plugin-kustomize.html)
 - [My Master&#39;s Dissertation: Modern Data Platform with DataOps, Kubernetes, and Cloud-Native Ecosystem](https://tech.aabouzaid.com/2023/07/my-master-dissertation-modern-data-platform-with-dataops-kubernetes-and-cloud-native-ecosystem.html)
-- [Your DevOps learning roadmap is broken! - Career](https://tech.aabouzaid.com/2023/06/your-devops-learning-roadmap-is-broken.html)
 <!-- BLOG-POST-LIST:END -->
