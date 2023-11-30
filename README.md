@@ -9,7 +9,9 @@ DevOps transformation, automation, data, and metrics are my preferred areas. And
 
 ### 🧐 More about me
 
-- 👨‍💻 Interested in **Kubernetes, Containers, CI/CD, DevOps, Automation**
+- 👨‍💻 Interested in **Career, Agile, DevOps, Kubernetes, Containers, CI/CD, Automation**
+
+- 🌱 Founder of [DevOps Hive](https://devopshive.net/) (GH: [DevOpsHive](https://github.com/DevOpsHiveCloud))
 
 - 📝 Regularly write articles on [tech.aabouzaid.com](https://tech.aabouzaid.com/)
 
