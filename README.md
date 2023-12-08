@@ -11,7 +11,7 @@ DevOps transformation, automation, data, and metrics are my preferred areas. And
 
 - 👨‍💻 Interested in **Career, Agile, DevOps, Kubernetes, Containers, CI/CD, Automation**
 
-- 🌱 Founder of [DevOps Hive](https://devopshive.net/) (GH: [DevOpsHive](https://github.com/DevOpsHiveCloud))
+- 🐝 Founder of [DevOps Hive](https://devopshive.net/) (GH: [DevOpsHive](https://github.com/DevOpsHiveHQ))
 
 - 📝 Regularly write articles on [tech.aabouzaid.com](https://tech.aabouzaid.com/)
 
@@ -19,7 +19,7 @@ DevOps transformation, automation, data, and metrics are my preferred areas. And
 
 - 📜️ More about my professional experiences on [linkedin.com/in/aabouzaid](https://www.linkedin.com/in/aabouzaid/)
 
-- 📁 Created a curated [Awesome Kustomize](https://github.com/DevOpsHiveCloud/awesome-kustomize) and [Awesome Crossplane](https://github.com/DevOpsHiveCloud/awesome-crossplane) lists.
+- 📁 Created a curated [Awesome Kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize) and [Awesome Crossplane](https://github.com/DevOpsHiveHQ/awesome-crossplane) lists.
 
 
 ### 🛠️ Main toolkit
