@@ -1,10 +1,12 @@
 ## Hi there, nice to meet you! 🐧️
 
-Hello, my name is [Ahmed AbouZaid](https://tech.aabouzaid.com/), I'm a passionate DevOps engineer, Cloud/Kubernetes specialist, Free/Open source geek, and an author.
+Hello, my name is [Ahmed AbouZaid](https://tech.aabouzaid.com/), I'm a passionate Tech Lead DevOps Engineer. 👋
 
-I believe in self CI/CD (Continuous Improvements/Development), also that "**The whole is greater than the sum of its parts**".
+With 10+ years of hands-on experience and an M.Sc. in Data Engineering,</br>
+I enjoy facilitating the growth of both businesses and individuals.
 
-DevOps transformation, automation, data, and metrics are my preferred areas. And I like to help both businesses and people to grow. 
+I specialize in Cloud-Native and Kubernetes. I'm also a Free/Open source geek and book author.</br>
+My favorite topics are DevOps transformation, automation, data, and metrics.
 
 
 ### 🧐 More about me
