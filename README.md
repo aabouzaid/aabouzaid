@@ -2,7 +2,7 @@
 
 Hello, my name is [Ahmed AbouZaid](https://tech.aabouzaid.com/), I'm a passionate Tech Lead DevOps Engineer. 👋
 
-With 10+ years of hands-on experience and an M.Sc. in Data Engineering,</br>
+With 10+ years of hands-on experience in DevOps and an M.Sc. in Data Engineering from Edinburgh Napier University,</br>
 I enjoy facilitating the growth of both businesses and individuals.
 
 I specialize in Cloud-Native and Kubernetes. I'm also a Free/Open source geek and book author.</br>
