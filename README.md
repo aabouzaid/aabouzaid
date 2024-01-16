@@ -56,4 +56,5 @@ My favorite topics are DevOps transformation, automation, data, and metrics.
 - [Become a DevOps Engineer with the Dynamic DevOps Roadmap - Career](https://tech.aabouzaid.com/2023/12/become-devops-engineer-with-dynamic-devops-roadmap-career.html)
 - [DevOps is not only a culture - Discussion Panel](https://tech.aabouzaid.com/2023/11/devops-is-not-only-a-culture.html)
 - [Platform Engineering: Manage your infrastructure using Kubernetes and Crossplane - Presentation](https://tech.aabouzaid.com/2023/11/platform-engineering-manage-your-infrastructure-using-kubernetes-and-crossplane.html)
+- [🔀Merger🔀, a schemaless strategic merge plugin - Kustomize](https://tech.aabouzaid.com/2023/09/merger-schemaless-strategic-merge-plugin-kustomize.html)
 <!-- BLOG-POST-LIST:END -->
