@@ -26,6 +26,19 @@ My favorite topics are DevOps transformation, automation, data, and metrics.
 
 - 📁 Created a curated [Awesome Kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize) and [Awesome Crossplane](https://github.com/DevOpsHiveHQ/awesome-crossplane) lists.
 
+- ✉️ For tech consultancy or any other matter, reach me via the [contact form](https://tech.aabouzaid.com/contact).
+
+
+### ☁️ Clouds and Platforms
+
+<p>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="Amazon Web Services - AWS" alt="Amazon Web Services - AWS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="Google Cloud Platform - GCP" alt="Google Cloud Platform - GCP" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Microsoft Azure" alt="Microsoft Azure" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" title="Red Hat OpenShift" alt="Red Hat OpenShift" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" title="Digital Ocean" alt="Digital Ocean" width="40" height="40"/>
+<p/>
+
 
 ### 🛠️ Main toolkit
 <p>
@@ -35,12 +48,12 @@ My favorite topics are DevOps transformation, automation, data, and metrics.
   <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" title="Argo CD" alt="Argo CD" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/DevOpsHiveHQ/awesome-crossplane/main/img/crossplane-icon.svg" title="Crossplane" alt="Crossplane" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" title="Docker" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" title="Vault HashiCorp" alt="Vault HashiCorp" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" title="Terraform" alt="Terraform" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" title="Ansible" alt="Ansible" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>
   <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="Bash" alt="Bash" width="40" height="40"/>
