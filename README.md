@@ -1,6 +1,6 @@
 ## Hi there, nice to meet you! 🐧️
 
-Hello, my name is [Ahmed AbouZaid](https://tech.aabouzaid.com/), I'm a passionate Tech Lead DevOps Engineer. 👋
+Hello, my name is [Ahmed AbouZaid](https://aabouzaid.com/), I'm a passionate Tech Lead DevOps Engineer. 👋
 
 ### ⭐ Overview
 
