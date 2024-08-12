@@ -71,9 +71,9 @@ My favorite topics are DevOps transformation, automation, data, and metrics.
 
 ### 📑️ Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bootstrap Cloud-Native bootstrappers like Crossplane with K3d - Automation](https://tech.aabouzaid.com/2024/08/bootstrap-cloud-native-bootstrappers-like-crossplane-with-k3d-automation.html)
 - [Gomplate v4 is here! - Tools](https://tech.aabouzaid.com/2024/07/gomplate-v4-is-here.html)
 - [2023 Highlights](https://tech.aabouzaid.com/2023/12/2023-highlights.html)
 - [Become a DevOps Engineer with the Dynamic DevOps Roadmap - Career](https://tech.aabouzaid.com/2023/12/become-devops-engineer-with-dynamic-devops-roadmap-career.html)
 - [DevOps is not only a culture - Discussion Panel](https://tech.aabouzaid.com/2023/11/devops-is-not-only-a-culture.html)
-- [Platform Engineering: Manage your infrastructure using Kubernetes and Crossplane - Presentation](https://tech.aabouzaid.com/2023/11/platform-engineering-manage-your-infrastructure-using-kubernetes-and-crossplane.html)
 <!-- BLOG-POST-LIST:END -->
