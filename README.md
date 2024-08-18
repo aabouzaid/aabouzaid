@@ -1,35 +1,18 @@
 ## Hi there, nice to meet you! 🐧️
 
-Hello, my name is [Ahmed AbouZaid](https://aabouzaid.com/), I'm a passionate Tech Lead DevOps Engineer. 👋
+Hello, my name is [Ahmed AbouZaid](https://tech.aabouzaid.com/), a Tech Lead DevOps Engineer. 👨‍💻
+
+I'm a passionate Cloud-Native Engineer based in Berlin/Germany, lived on 3 continents, visited 17+ countries, and I'm still learning!
 
 ### ⭐ Overview
 
-With 16+ years of open-source contribution, 12+ years of professional hands-on experience in DevOps,</br>
-and an M.Sc. in Data Engineering from Edinburgh Napier University (UK),</br>
-I enjoy facilitating the growth of both businesses and individuals.
+With **16+ years of open-source contribution**, **12+ years of professional hands-on experience in DevOps**, and **an M.Sc. in Data Engineering** from Edinburgh Napier University (UK), I enjoy facilitating the growth of both businesses and individuals.
 
-I specialize in Cloud-Native and Kubernetes. I'm also a Free/Open source geek and book author.</br>
-My favorite topics are DevOps transformation, automation, data, and metrics.
+I specialize in **Cloud-Native and Kubernetes**. I'm also a Free/Open source geek and book author. My favorite topics are DevOps transformation, DevSecOps, automation, data, and metrics.
 
+In general, I'm interested in **Career, Agile, DevOps, Kubernetes, Containers, CI/CD, and Automation**. Besides hands-on experience, I hold/held a couple of professional certificates like **CKS, CKA, CKAD, AWS SAA, AWS SOA, RHCE, and RHCSA**.
 
-### 🧐 More about me
-
-- 👨‍💻 Interested in **Career, Agile, DevOps, Kubernetes, Containers, CI/CD, Automation**
-
-- 🐝 Founder of [DevOps Hive](https://devopshive.net/) (GH: [DevOpsHive](https://github.com/DevOpsHiveHQ))
-
-- 📝 Regularly write articles on [tech.aabouzaid.com](https://tech.aabouzaid.com/)
-
-- 💡 My talks and sessions on [tech.aabouzaid.com/talks](https://tech.aabouzaid.com/talks)
-
-- 📜️ More about my professional experiences on [linkedin.com/in/aabouzaid](https://www.linkedin.com/in/aabouzaid/)
-
-- 📁 Created a curated [Awesome Kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize) and [Awesome Crossplane](https://github.com/DevOpsHiveHQ/awesome-crossplane) lists.
-
-- ✉️ For tech consultancy or any other matter, reach me via the [contact form](https://tech.aabouzaid.com/contact).
-
-
-### ☁️ Clouds and Platforms
+### 🛠️ Main toolkit
 
 <p>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="Amazon Web Services - AWS" alt="Amazon Web Services - AWS" width="40" height="40"/>
@@ -39,8 +22,6 @@ My favorite topics are DevOps transformation, automation, data, and metrics.
   <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" title="Digital Ocean" alt="Digital Ocean" width="40" height="40"/>
 <p/>
 
-
-### 🛠️ Main toolkit
 <p>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" title="Helm" alt="Helm" width="40" height="40"/>
@@ -61,19 +42,38 @@ My favorite topics are DevOps transformation, automation, data, and metrics.
 <p/>
 
 
-### 📕️ Featured blog posts
-- **Career** - [Your DevOps learning roadmap is broken!](https://tech.aabouzaid.com/2023/06/your-devops-learning-roadmap-is-broken.html)
-- **DevOps** - [J-Curve and change management](https://tech.aabouzaid.com/2019/05/devops-and-change-management-agile.html)
-- **Kubernetes** - [3 ways to customize off-the-shelf Helm charts with Kustomize](https://tech.aabouzaid.com/2020/09/3-ways-to-customize-off-the-shelf-helm-charts-with-kustomize-kubernetes.html)
-- **Terraform** - [Validate, format, lint, and test Terraform files](https://tech.aabouzaid.com/2020/04/validate-format-lint-and-test-terraform-iac-ci.html)
-- **SRE** - [The Road to Cut Production Incidents by 67% and Reduce Downtime to Zero](https://tech.aabouzaid.com/2020/01/the-road-to-cut-production-incidents-by-67-percent-and-reduce-downtime-to-zero.html)
+### 📝 Featured Blog Posts
 
+- **Career:** [Your DevOps learning roadmap is broken!](https://tech.aabouzaid.com/2023/06/your-devops-learning-roadmap-is-broken.html)
+- **DevOps:** [J-Curve and change management](https://tech.aabouzaid.com/2019/05/devops-and-change-management-agile.html)
+- **Kubernetes:** [3 ways to customize off-the-shelf Helm charts with Kustomize](https://tech.aabouzaid.com/2020/09/3-ways-to-customize-off-the-shelf-helm-charts-with-kustomize-kubernetes.html)
+- **Terraform:** [Validate, format, lint, and test Terraform files](https://tech.aabouzaid.com/2020/04/validate-format-lint-and-test-terraform-iac-ci.html)
+- **SRE:** [The Road to Cut Production Incidents by 67% and Reduce Downtime to Zero](https://tech.aabouzaid.com/2020/01/the-road-to-cut-production-incidents-by-67-percent-and-reduce-downtime-to-zero.html)
 
-### 📑️ Latest blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Bootstrap Cloud-Native bootstrappers like Crossplane with K3d - Automation](https://tech.aabouzaid.com/2024/08/bootstrap-cloud-native-bootstrappers-like-crossplane-with-k3d-automation.html)
-- [Gomplate v4 is here! - Tools](https://tech.aabouzaid.com/2024/07/gomplate-v4-is-here.html)
-- [2023 Highlights](https://tech.aabouzaid.com/2023/12/2023-highlights.html)
-- [Become a DevOps Engineer with the Dynamic DevOps Roadmap - Career](https://tech.aabouzaid.com/2023/12/become-devops-engineer-with-dynamic-devops-roadmap-career.html)
-- [DevOps is not only a culture - Discussion Panel](https://tech.aabouzaid.com/2023/11/devops-is-not-only-a-culture.html)
+⭐ Latest blog post: <!-- BLOG-POST-LIST:START -->[Bootstrap Cloud-Native bootstrappers like Crossplane with K3d - Automation](https://tech.aabouzaid.com/2024/08/bootstrap-cloud-native-bootstrappers-like-crossplane-with-k3d-automation.html)
 <!-- BLOG-POST-LIST:END -->
+
+
+### 🗃 Featured Resources
+
+Over the years, I have produced many resources like 🚀 Initiatives, 📁 Projects, ⏺ Tech Talks, and 📚 Publications! Here are some featured ones.
+
+| 🚀 Initiatives &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 📁 Projects &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| --- | --- |
+| **AR/EN:** [Awesome Arabic Speakers](https://github.com/sahaba-ai/awesome-arabic-speakers) | **Go:** [KubeZero](https://github.com/kubezero/kubezero) |
+| **EN:** [Dynamic DevOps Roadmap](https://github.com/sahaba-ai/awesome-arabic-speakers) | **Go:** [Kustomize Merger](https://github.com/DevOpsHiveHQ/kustomize-plugin-merger) |
+| **EN:** [Awesome Kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize) | **Bash:** [ASDF Plugin Manager](https://github.com/asdf-community/asdf-plugin-manager) |
+| **AR:** [LibreBooks.Org ](https://librebooks.org/) | **Bash:** [Kubech CLI](https://github.com/DevOpsHiveHQ/kubech) |
+
+| ⏺ Tech Talks | 📚 Publications &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| :--- | :--- |
+| **AR:** [Manage your infrastructure using Kubernetes and Crossplane](https://tech.aabouzaid.com/2023/11/platform-engineering-manage-your-infrastructure-using-kubernetes-and-crossplane.html) | **EN:** [Research - Modern Big Data Platform](https://aabouzaid.com/publications/2024-modern-big-data-platform/) |
+| **EN:** [Kubernetes Security Best Practices with tips for the CKS exam](https://tech.aabouzaid.com/2022/07/kubernetes-security-best-practices-with-tips-for-the-cks-exam.html) | **AR:** [Book - Free Open Source Guide](https://aabouzaid.com/publications/2013-free-open-source-guide/) |
+| **EN:** [Docker Best Practices Workshop](https://tech.aabouzaid.com/2021/09/docker-best-practices-workshop-presentation.html) | **AR:** [Book - Simply Ubuntu](https://aabouzaid.com/publications/2011-simply-ubuntu/) |
+| **EN:** [Kubernetes Requests and Limits](https://tech.aabouzaid.com/2021/07/kubernetes-requests-and-limits-presentation.html) | **AR:** [Research - Alternative Energy](https://aabouzaid.com/publications/2010-alternative-energy/) |
+
+
+### 📫 Contact me
+
+[Feel free to reach out](https://aabouzaid.com/#contact) for tech questions or any other matter.
+I will get back to you as soon as possible 👨‍💻
