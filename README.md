@@ -1,6 +1,6 @@
 ## Hi there, nice to meet you! 🐧️
 
-Hello, my name is [Ahmed AbouZaid](https://tech.aabouzaid.com/), a Tech Lead DevOps Engineer. 👨‍💻
+Hello, my name is [Ahmed AbouZaid](https://aabouzaid.com/), a Tech Lead DevOps Engineer. 👨‍💻
 
 I'm a passionate Cloud-Native Engineer based in Berlin/Germany, lived on 3 continents, visited 17+ countries, and I'm still learning!
 
