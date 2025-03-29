@@ -72,7 +72,7 @@ Over the years, I have produced many resources like 🚀 Initiatives, 📁 Proje
 
 | ⏺ Tech Talks | 📚 Publications &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | :--- | :--- |
-| **AR:** [Manage your infrastructure using Kubernetes and Crossplane](https://tech.aabouzaid.com/2023/11/platform-engineering-manage-your-infrastructure-using-kubernetes-and-crossplane.html) | **EN:** [Research - Modern Big Data Platform](https://aabouzaid.com/publications/2024-modern-big-data-platform/) |
+| **AR:** [Manage your infrastructure using Kubernetes and Crossplane](https://tech.aabouzaid.com/2023/11/platform-engineering-manage-your-infrastructure-using-kubernetes-and-crossplane.html) | **EN:** [Research - Modern Big Data Platform](https://aabouzaid.com/publications/2025-modern-big-data-platform/) |
 | **EN:** [Kubernetes Security Best Practices with tips for the CKS exam](https://tech.aabouzaid.com/2022/07/kubernetes-security-best-practices-with-tips-for-the-cks-exam.html) | **AR:** [Book - Free Open Source Guide](https://aabouzaid.com/publications/2013-free-open-source-guide/) |
 | **EN:** [Docker Best Practices Workshop](https://tech.aabouzaid.com/2021/09/docker-best-practices-workshop-presentation.html) | **AR:** [Book - Simply Ubuntu](https://aabouzaid.com/publications/2011-simply-ubuntu/) |
 | **EN:** [Kubernetes Requests and Limits](https://tech.aabouzaid.com/2021/07/kubernetes-requests-and-limits-presentation.html) | **AR:** [Research - Alternative Energy](https://aabouzaid.com/publications/2010-alternative-energy/) |
