@@ -51,11 +51,11 @@ In general, I'm interested in **Career, Agile, DevOps, Kubernetes, Containers, C
 - **SRE:** [The Road to Cut Production Incidents by 67% and Reduce Downtime to Zero](https://tech.aabouzaid.com/2020/01/the-road-to-cut-production-incidents-by-67-percent-and-reduce-downtime-to-zero.html)
 
 ⭐ Latest blog post: <!-- BLOG-POST-LIST:START -->
+- [Building a Modern Data Platform for the Artificial Intelligence Era - Springer Nature Research Communities](https://tech.aabouzaid.com/2025/06/building-a-modern-data-platform-for-the-artificial-intelligence-era-springer-nature-research-communities.html)
 - [Research Paper: Building a Modern Data Platform Based on the Data Lakehouse Architecture and Cloud-Native Ecosystem](https://tech.aabouzaid.com/2025/03/research-paper-building-a-modern-data-platform-based-on-the-data-lakehouse-architecture.html)
 - [How Open Source Helped Me Step Up My DevOps Career - Presentation](https://tech.aabouzaid.com/2025/02/how-open-source-helped-me-step-up-my-devops-career.html)
 - [2024 Highlights](https://tech.aabouzaid.com/2024/12/2024-highlights.html)
 - [Bootstrap Cloud-Native bootstrappers like Crossplane with K3d - Automation](https://tech.aabouzaid.com/2024/08/bootstrap-cloud-native-bootstrappers-like-crossplane-with-k3d-automation.html)
-- [Gomplate v4 is here! - Tools](https://tech.aabouzaid.com/2024/07/gomplate-v4-is-here.html)
 <!-- BLOG-POST-LIST:END -->
 
 
