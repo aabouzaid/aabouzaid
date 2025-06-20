@@ -52,10 +52,10 @@ In general, I'm interested in **Career, Agile, DevOps, Kubernetes, Containers, C
 
 ⭐ Latest blog post: <!-- BLOG-POST-LIST:START -->
 - [Automate adding vCluster to Argo CD using External Secrets Operator - GitOps](https://tech.aabouzaid.com/2025/06/automate-adding-vcluster-to-argo-cd-using-external-secret-operator.html)
+- [How to define GitHub Actions multiline environment variable or output - CI/CD](https://tech.aabouzaid.com/2025/06/dgithub-actions-multiline-environment-variable-or-output.html)
 - [Building a Modern Data Platform for the Artificial Intelligence Era - Springer Nature Research Communities](https://tech.aabouzaid.com/2025/06/building-a-modern-data-platform-for-the-artificial-intelligence-era-springer-nature-research-communities.html)
 - [Research Paper: Building a Modern Data Platform Based on the Data Lakehouse Architecture and Cloud-Native Ecosystem](https://tech.aabouzaid.com/2025/03/research-paper-building-a-modern-data-platform-based-on-the-data-lakehouse-architecture.html)
 - [How Open Source Helped Me Step Up My DevOps Career - Presentation](https://tech.aabouzaid.com/2025/02/how-open-source-helped-me-step-up-my-devops-career.html)
-- [2024 Highlights](https://tech.aabouzaid.com/2024/12/2024-highlights.html)
 <!-- BLOG-POST-LIST:END -->
 
 
