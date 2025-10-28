@@ -51,11 +51,11 @@ In general, I'm interested in **Career, Agile, DevOps, Kubernetes, Containers, C
 - **SRE:** [The Road to Cut Production Incidents by 67% and Reduce Downtime to Zero](https://tech.aabouzaid.com/2020/01/the-road-to-cut-production-incidents-by-67-percent-and-reduce-downtime-to-zero.html)
 
 ⭐ Latest blog post: <!-- BLOG-POST-LIST:START -->
+- [Enrich Docusaurus search - Algolia DocSearch](https://tech.aabouzaid.com/2025/10/enrich-docusaurus-search-algolia-docsearch.html)
 - [Why my ConfigMap data looks messy? - Kubernetes](https://tech.aabouzaid.com/2025/07/why-my-configmap-data-looks-messy.html)
 - [Automate adding vCluster to Argo CD using External Secrets Operator - GitOps](https://tech.aabouzaid.com/2025/06/automate-adding-vcluster-to-argo-cd-using-external-secret-operator.html)
 - [How to define GitHub Actions multiline environment variable or output - CI/CD](https://tech.aabouzaid.com/2025/06/dgithub-actions-multiline-environment-variable-or-output.html)
 - [Building a Modern Data Platform for the Artificial Intelligence Era - Springer Nature Research Communities](https://tech.aabouzaid.com/2025/06/building-a-modern-data-platform-for-the-artificial-intelligence-era-springer-nature-research-communities.html)
-- [Research Paper: Building a Modern Data Platform Based on the Data Lakehouse Architecture and Cloud-Native Ecosystem](https://tech.aabouzaid.com/2025/03/research-paper-building-a-modern-data-platform-based-on-the-data-lakehouse-architecture.html)
 <!-- BLOG-POST-LIST:END -->
 
 
