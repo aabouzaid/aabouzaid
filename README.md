@@ -1,16 +1,16 @@
 ## Hi there, nice to meet you! 🐧️
 
-Hello, my name is [Ahmed AbouZaid](https://aabouzaid.com/), a Tech Lead DevOps Engineer. 👨‍💻
+Hello, my name is [Ahmed AbouZaid](https://aabouzaid.com/), a Solutions Architect DevOps Engineer 👨‍💻
 
-I'm a passionate Cloud-Native Engineer based in Berlin/Germany, lived on 3 continents, visited 17+ countries, and I'm still learning!
+I'm a passionate Cloud-Native Engineer based in Berlin/Germany, have lived on 3 continents, visited 19+ countries, and I'm still learning!
 
 ### ⭐ Overview
 
-With **16+ years of open-source contribution**, **12+ years of professional hands-on experience in DevOps**, and **an M.Sc. in Data Engineering** from Edinburgh Napier University (UK), I enjoy facilitating the growth of both businesses and individuals.
+With **17+ years of open-source contributions**, **14+ years of professional hands-on experience in DevOps**, and **an M.Sc. in Data Engineering** from Edinburgh Napier University (UK), I enjoy facilitating the growth of both businesses and individuals.
 
 I specialize in **Cloud-Native and Kubernetes**. I'm also a Free/Open source geek and book author. My favorite topics are DevOps transformation, DevSecOps, automation, data, and metrics.
 
-In general, I'm interested in **Career, Agile, DevOps, Kubernetes, Containers, CI/CD, and Automation**. Besides hands-on experience, I hold/held a couple of professional certificates like **CKS, CKA, CKAD, AWS SAA, AWS SOA, RHCE, and RHCSA**.
+In general, I'm interested in **Career, Agile, DevOps, Kubernetes, Containers, CI/CD, and Automation**. Besides hands-on experience, I hold/held several professional certifications, including **CKS, CKA, CKAD, AWS SAA, AWS SOA, RHCE, and RHCSA**.
 
 ### 🛠️ Main toolkit
 
@@ -49,6 +49,7 @@ In general, I'm interested in **Career, Agile, DevOps, Kubernetes, Containers, C
 - **Kubernetes:** [3 ways to customize off-the-shelf Helm charts with Kustomize](https://tech.aabouzaid.com/2020/09/3-ways-to-customize-off-the-shelf-helm-charts-with-kustomize-kubernetes.html)
 - **Terraform:** [Validate, format, lint, and test Terraform files](https://tech.aabouzaid.com/2020/04/validate-format-lint-and-test-terraform-iac-ci.html)
 - **SRE:** [The Road to Cut Production Incidents by 67% and Reduce Downtime to Zero](https://tech.aabouzaid.com/2020/01/the-road-to-cut-production-incidents-by-67-percent-and-reduce-downtime-to-zero.html)
+- **Data:** [Building a Modern Data Platform for the Artificial Intelligence Era - Springer Nature Research Communitie](https://tech.aabouzaid.com/2025/06/building-a-modern-data-platform-for-the-artificial-intelligence-era-springer-nature-research-communities.html)
 
 ⭐ Latest blog post: <!-- BLOG-POST-LIST:START -->
 - [Enrich Docusaurus search - Algolia DocSearch](https://tech.aabouzaid.com/2025/10/enrich-docusaurus-search-algolia-docsearch.html)
