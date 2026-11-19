@@ -52,11 +52,11 @@ In general, I'm interested in **Career, Agile, DevOps, Kubernetes, Containers, C
 - **Data:** [Building a Modern Data Platform for the Artificial Intelligence Era - Springer Nature Research Communitie](https://tech.aabouzaid.com/2025/06/building-a-modern-data-platform-for-the-artificial-intelligence-era-springer-nature-research-communities.html)
 
 ⭐ Latest blog post: <!-- BLOG-POST-LIST:START -->
+- [DevOps in the AI Era - Discussion Panel](https://tech.aabouzaid.com/2026/10/devops-in-the-ai-era.html)
 - [DevOps T-Shaped Skills Shift in the Age of AI - Career](https://tech.aabouzaid.com/2026/09/devops-t-shaped-skills-shift-in-the-age-of-ai.html)
 - [10 Helm Chart Development Best Practices - Kubernetes](https://tech.aabouzaid.com/2026/06/10-helm-chart-development-best-practices-kubernetes.html)
 - [Enrich Docusaurus search - Algolia DocSearch](https://tech.aabouzaid.com/2025/10/enrich-docusaurus-search-algolia-docsearch.html)
 - [Why my ConfigMap data looks messy? - Kubernetes](https://tech.aabouzaid.com/2025/07/why-my-configmap-data-looks-messy.html)
-- [Automate adding vCluster to Argo CD using External Secrets Operator - GitOps](https://tech.aabouzaid.com/2025/06/automate-adding-vcluster-to-argo-cd-using-external-secret-operator.html)
 <!-- BLOG-POST-LIST:END -->
 
 
