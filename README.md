@@ -52,7 +52,7 @@ In general, I'm interested in **Career, Agile, DevOps, Kubernetes, Containers, C
 - **Data:** [Building a Modern Data Platform for the Artificial Intelligence Era - Springer Nature Research Communitie](https://tech.aabouzaid.com/2025/06/building-a-modern-data-platform-for-the-artificial-intelligence-era-springer-nature-research-communities.html)
 
 ⭐ Latest blog post: <!-- BLOG-POST-LIST:START -->
-- [How to Land Your First Interview - Live Session](https://tech.aabouzaid.com/2026/11/how-to-land-your-first-interview.html)
+- [How to Land Your First Interview - Webinar](https://tech.aabouzaid.com/2026/11/how-to-land-your-first-interview.html)
 - [DevOps in the AI Era - Discussion Panel](https://tech.aabouzaid.com/2026/10/devops-in-the-ai-era.html)
 - [DevOps T-Shaped Skills Shift in the Age of AI - Career](https://tech.aabouzaid.com/2026/09/devops-t-shaped-skills-shift-in-the-age-of-ai.html)
 - [10 Helm Chart Development Best Practices - Kubernetes](https://tech.aabouzaid.com/2026/06/10-helm-chart-development-best-practices-kubernetes.html)
